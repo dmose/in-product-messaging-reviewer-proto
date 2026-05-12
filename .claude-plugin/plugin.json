@@ -7,6 +7,7 @@
     "email": "dmosedale@mozilla.com"
   },
   "license": "MPL-2.0",
+  "repository": "https://github.com/dmose/in-product-messaging-reviewer-proto",
   "keywords": [
     "firefox",
     "asrouter",
