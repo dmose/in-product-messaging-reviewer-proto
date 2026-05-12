@@ -1,0 +1,17 @@
+{
+  "name": "fx-messaging-review",
+  "version": "1.0.0",
+  "description": "Review guidance for Firefox's in-product messaging system (ASRouter, about:welcome, feature callouts, infobars, spotlights, menu messages, toast notifications).",
+  "author": {
+    "name": "Dan Mosedale",
+    "email": "dmosedale@mozilla.com"
+  },
+  "license": "MPL-2.0",
+  "keywords": [
+    "firefox",
+    "asrouter",
+    "messaging",
+    "review",
+    "mozilla"
+  ]
+}

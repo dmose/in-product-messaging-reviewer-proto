@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "fx-messaging-review",
+  "description": "Review guidance for Firefox's in-product messaging system — message authoring, targeting, telemetry, localization, accessibility, and cross-profile concerns.",
+  "owner": {
+    "name": "Dan Mosedale",
+    "email": "dmosedale@mozilla.com"
+  },
+  "plugins": [
+    {
+      "name": "fx-messaging-review",
+      "description": "Loads comprehensive review checklist and conventions for Firefox ASRouter, about:welcome, feature callouts, infobars, spotlights, menu messages, and toast notifications.",
+      "source": "./"
+    }
+  ]
+}
